@@ -1,0 +1,34 @@
+# Four.meme 代币创建机器人依赖包
+
+# 核心依赖
+requests>=2.31.0
+eth-account>=0.9.0
+web3>=6.10.0
+
+# 图片处理
+Pillow>=10.0.0
+
+# 加密和签名
+cryptography>=41.0.0
+pycryptodome>=3.18.0
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# 数据处理
+typing-extensions>=4.7.0
+
+# 开发和测试依赖（可选）
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+black>=23.7.0
+flake8>=6.0.0
+
+# 日志和调试
+colorlog>=6.7.0
+
+# HTTP客户端增强
+httpx>=0.24.0
+
+# 数据验证
+pydantic>=2.0.0 
