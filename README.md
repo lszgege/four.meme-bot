@@ -45,18 +45,16 @@
 ## 使用方法
 
 ### 1. 准备数据文件
-创建一个txt文件，按照上述格式填入钱包信息：
 ```bash
-# 复制示例文件
-cp wallets_example.txt my_wallets.txt
+# 保存钱包信息
+wallets_example.txt
 # 编辑文件，替换为真实的钱包信息
 ```
 
-### 2. 准备图片文件夹（可选）
-创建一个文件夹并放入代币图片：
+### 2. 准备图片文件夹
 ```bash
-# 创建图片文件夹
-mkdir token_images
+# 保存图片到文件夹
+images/
 # 将图片文件放入文件夹（支持 jpg, png, gif, bmp, webp 格式）
 ```
 
